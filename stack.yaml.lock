@@ -3,24 +3,10 @@
 # For more information, please see the documentation at:
 #   https://docs.haskellstack.org/en/stable/lock_files
 
-packages:
-- completed:
-    hackage: postgres-options-0.2.0.0@sha256:5e2d6408ed3943f9a056b58106186397b9aa1424c56f1f26668305ce8ea2838f,1604
-    pantry-tree:
-      size: 295
-      sha256: a9fb2bafbaca65c548916e9276ad129302e0b82b7cc9a5c74d3b359a7a77d598
-  original:
-    hackage: postgres-options-0.2.0.0
-- completed:
-    hackage: generic-monoid-0.1.0.0@sha256:00d1a7b7ff0890a3e3cba4032be24fe377c26e5e45d73afcacd42c98abb3b7e3,818
-    pantry-tree:
-      size: 393
-      sha256: 1f8ee01867eaaaa25d3f2f74ad3b62baff2a68dd666e594eb246b67c12fea489
-  original:
-    hackage: generic-monoid-0.1.0.0@sha256:00d1a7b7ff0890a3e3cba4032be24fe377c26e5e45d73afcacd42c98abb3b7e3
+packages: []
 snapshots:
 - completed:
-    size: 524804
-    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/14/16.yaml
-    sha256: 4d1519a4372d051d47a5eae2241cf3fb54e113d7475f89707ddb6ec06add2888
-  original: lts-14.16
+    sha256: 6f0bea3ba5b07360f25bc886e8cff8d847767557a492a6f7f6dcb06e3cc79ee9
+    size: 712905
+    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/22/13.yaml
+  original: lts-22.13
